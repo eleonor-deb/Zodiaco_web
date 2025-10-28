@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>mi pagina de signos zodiacaes </title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <background- color: #87CEEB;></background->
+    <h1>mi pagina de signos zodiacales</h1>
+    <ol>
+        <li>canser</li>
+        <li>libra</li>
+        <li>leo</li>
+        <li>tauro</li>
+        <li>gemminis</li>
+        <li>acuario</li>
+        <li>escorpio</li>
+        <li>sagitario</li>
+        <li>pisis</li>
+        <li>virgo</li>
+        <li>capricornio</li>
+        <li>aries</li>
+    </ol>
+
+
+    <img src="acuario.png" alt="">
+    <p>Acuario: 20 de enero - 18 de febrero</p>
+    <img src="canser.png" alt="">
+    <p>Cáncer: 21 de junio - 22 de julio</p>
+
+    <img src="tauro.png" alt="">
+    <p>Tauro: 20 de abril - 20 de mayo</p>  
+    <img src="giminis.png" alt="">
+    <p>Géminis: 21 de mayo - 20 de junio</p>
+    <img src="picis.png" alt="">
+    <p>Piscis: 19 de febrero - 20 de marzo </p>
+    <img src="escorpio.png" alt="">
+    <p>Escorpio: 23 de octubre - 21 de noviembre</p>
+    <img src="virgo.png" alt="">
+    <p>Virgo: 23 de agosto - 22 de septiembre</p>
+    <img src="aries.png" alt="">
+    <p>Aries: 21 de marzo - 19 de abril</p>
+    <img src="sagitario.png" alt="">
+    <p>Sagitario: 22 de noviembre - 21 de diciembre</p>
+    <img src="libra.png" alt="">
+    <p>Libra: 23 de septiembre - 22 de octubre</p>
+    <img src="leo.png" alt="">
+    <p>Leo: 23 de julio - 22 de agosto</p>
+    <img src="capricornio.png" alt="">
+   <p>Capricornio: 22 de diciembre - 19 de enero</p>
+   </background->
+</body>
